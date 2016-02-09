@@ -1,2 +1,2 @@
 # PerryJenniferPortfolio
-# Provides an overview of the purpose and meaning of your Portfolio
+# This portfolio will show everything I am working on in this class.
